@@ -1,25 +1,24 @@
 {
-    "car_name": "Sports car",
-    "car_brand": "Audi RS7",
-    "engine_capacity": "4.0L",
-    "seats": [
-    {
-      "material": "Leather",
-      "color": "Black",
-    },
-    {
-      "material": "Leather",
-      "color": "Black",
-    },
-    {
-      "material": "Leather",
-      "color": "Black",
+	"car_name": "Sports car",
+	"car_brand": "Audi RS7",
+	"engine_capacity": "4.0L",
+	"seats": [{
+			"material": "Leather",
+			"color": "Black"
+		},
+		{
+			"material": "Leather",
+			"color": "Black"
+		},
+		{
+			"material": "Leather",
+			"color": "Black"
 
-    },
-    {
-      "material": "Leather",
-      "color": "Black",
+		},
+		{
+			"material": "Leather",
+			"color": "Black"
 
-    }
-  ]
+		}
+	]
 }
