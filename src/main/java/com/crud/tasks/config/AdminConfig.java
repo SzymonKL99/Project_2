@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Getter
 public class AdminConfig {
 
-    @Value("szymon.kliszczz@gmail.com")
+    @Value("${admin.mail}")
     private String adminMail;
 
 }
